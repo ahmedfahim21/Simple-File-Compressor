@@ -1,0 +1,17 @@
+.logo.comp:hover {
+  filter: drop-shadow(0 0 2em #747bff);
+}
+
+input{
+  margin: 5px;;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 28px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
